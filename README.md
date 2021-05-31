@@ -1,8 +1,8 @@
-### Hi there, I am Asazu Taiga, a software engineer base in Japan 👋
+### I am Asazu Taiga, a software engineer base in Japan
 
-- 🔭 I’m currently working on frontend development, majorly React.
+<!-- - 🔭 I’m currently working on frontend development, majorly React.
 - 🌱 I’m currently learning Blitz.js, UI/UX, component oriented architecture and design of web application and so on.
-- ⚡ Fun fact: I like Haiku, a Japanese poem of seventeen syllables.
+- ⚡ Fun fact: I like Haiku, a Japanese poem of seventeen syllables. -->
 
 <!--
 - 👯 I’m looking to collaborate on ...
